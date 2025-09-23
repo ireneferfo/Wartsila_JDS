@@ -13,6 +13,7 @@ This repository contains the analysis and results of a market study on repowerin
 - seaborn 0.13.2
 - cartopy 0.25.0
 - shapely 2.2.1
+- squarify 0.4.3
    
    
 *This repository will be made private after interview process.*
